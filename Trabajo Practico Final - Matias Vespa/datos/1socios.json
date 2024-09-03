@@ -1,0 +1,101 @@
+[
+    {
+        "ID": 1,
+        "Nombre": "Matias",
+        "Apellido": "Vespa",
+        "Fecha_Nacimiento": "1997",
+        "Direccion": "Belgrano 1230",
+        "Correo_Electronico": "correoelectronico123@gmail.com",
+        "Telefono": "2915274430"
+    },
+    {
+        "ID": 2,
+        "Nombre": "Juan",
+        "Apellido": "Perez",
+        "Fecha_Nacimiento": "1998",
+        "Direccion": "San Martin 920",
+        "Correo_Electronico": "correoelectronico234@gmail.com",
+        "Telefono": "2915271452"
+    },
+    {
+        "ID": 3,
+        "Nombre": "Pedro",
+        "Apellido": "Gomez",
+        "Fecha_Nacimiento": "1999",
+        "Direccion": "Belgrano 1230",
+        "Correo_Electronico": "correoelectronico345@gmail.com",
+        "Telefono": "2915271124"
+    },
+    {
+        "ID": 4,
+        "Nombre": "Laura",
+        "Apellido": "Martinez",
+        "Fecha_Nacimiento": "1985",
+        "Direccion": "Avenida Siempre Viva 742",
+        "Correo_Electronico": "laura.martinez@example.com",
+        "Telefono": "2915275543"
+    },
+    {
+        "ID": 5,
+        "Nombre": "Carlos",
+        "Apellido": "Lopez",
+        "Fecha_Nacimiento": "1990",
+        "Direccion": "Calle Falsa 123",
+        "Correo_Electronico": "carlos.lopez@example.com",
+        "Telefono": "2915276678"
+    },
+    {
+        "ID": 6,
+        "Nombre": "Ana",
+        "Apellido": "Garcia",
+        "Fecha_Nacimiento": "1975",
+        "Direccion": "Calle de la Paz 456",
+        "Correo_Electronico": "ana.garcia@example.com",
+        "Telefono": "2915277789"
+    },
+    {
+        "ID": 7,
+        "Nombre": "Miguel",
+        "Apellido": "Rodriguez",
+        "Fecha_Nacimiento": "2000",
+        "Direccion": "Boulevard de los Sue\u00f1os Rotos 789",
+        "Correo_Electronico": "miguel.rodriguez@example.com",
+        "Telefono": "2915278890"
+    },
+    {
+        "ID": 8,
+        "Nombre": "Lucia",
+        "Apellido": "Fernandez",
+        "Fecha_Nacimiento": "1988",
+        "Direccion": "Calle del Sol 321",
+        "Correo_Electronico": "lucia.fernandez@example.com",
+        "Telefono": "2915279901"
+    },
+    {
+        "ID": 9,
+        "Nombre": "Javier",
+        "Apellido": "Gonzalez",
+        "Fecha_Nacimiento": "1995",
+        "Direccion": "Avenida del Mar 654",
+        "Correo_Electronico": "javier.gonzalez@example.com",
+        "Telefono": "2915280012"
+    },
+    {
+        "ID": 10,
+        "Nombre": "Maria",
+        "Apellido": "Lopez",
+        "Fecha_Nacimiento": "1992",
+        "Direccion": "Calle Luna 987",
+        "Correo_Electronico": "maria.lopez@example.com",
+        "Telefono": "2915281123"
+    },
+    {
+        "ID": 11,
+        "Nombre": "Roman",
+        "Apellido": "Riquelme",
+        "Fecha_Nacimiento": "1985",
+        "Direccion": "Avenida Colon 166",
+        "Correo_Electronico": "roman.ejemplo@gmail.com",
+        "Telefono": "2914291242"
+    }
+]

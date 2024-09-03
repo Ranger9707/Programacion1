@@ -1,0 +1,263 @@
+[
+    {
+        "ID": 1,
+        "Titulo": "Harry Potter 1",
+        "Autor": "JK Rowling",
+        "Editorial": "Salamandra",
+        "Ano_Publicacion": "1997",
+        "Genero": "Fantasia",
+        "Cantidad_Disponible": 20
+    },
+    {
+        "ID": 2,
+        "Titulo": "Harry Potter 2",
+        "Autor": "JK Rowling",
+        "Editorial": "Salamandra",
+        "Ano_Publicacion": "1998",
+        "Genero": "Fantasia",
+        "Cantidad_Disponible": 20
+    },
+    {
+        "ID": 3,
+        "Titulo": "Harry Potter 3",
+        "Autor": "JK Rowling",
+        "Editorial": "Salamandra",
+        "Ano_Publicacion": "1999",
+        "Genero": "Fantasia",
+        "Cantidad_Disponible": 20
+    },
+    {
+        "ID": 4,
+        "Titulo": "Harry Potter 4",
+        "Autor": "JK Rowling",
+        "Editorial": "Salamandra",
+        "Ano_Publicacion": "2000",
+        "Genero": "Fantasia",
+        "Cantidad_Disponible": 20
+    },
+    {
+        "ID": 5,
+        "Titulo": "Harry Potter 5",
+        "Autor": "JK Rowling",
+        "Editorial": "Salamandra",
+        "Ano_Publicacion": "2003",
+        "Genero": "Fantasia",
+        "Cantidad_Disponible": 20
+    },
+    {
+        "ID": 6,
+        "Titulo": "Harry Potter 6",
+        "Autor": "JK Rowling",
+        "Editorial": "Salamandra",
+        "Ano_Publicacion": "2005",
+        "Genero": "Fantasia",
+        "Cantidad_Disponible": 20
+    },
+    {
+        "ID": 7,
+        "Titulo": "Harry Potter 7",
+        "Autor": "JK Rowling",
+        "Editorial": "Salamandra",
+        "Ano_Publicacion": "2007",
+        "Genero": "Fantasia",
+        "Cantidad_Disponible": 20
+    },
+    {
+        "ID": 8,
+        "Titulo": "El Conde de Monte Cristo",
+        "Autor": "Alejandro Dumas",
+        "Editorial": "Pluton Ediciones",
+        "Ano_Publicacion": "1844",
+        "Genero": "Aventura",
+        "Cantidad_Disponible": 20
+    },
+    {
+        "ID": 9,
+        "Titulo": "1984",
+        "Autor": "George Orwell",
+        "Editorial": "Secker & Warburg",
+        "Ano_Publicacion": "1949",
+        "Genero": "Distopia",
+        "Cantidad_Disponible": 20
+    },
+    {
+        "ID": 10,
+        "Titulo": "Orgullo y Prejuicio",
+        "Autor": "Jane Austen",
+        "Editorial": "T. Egerton",
+        "Ano_Publicacion": "1813",
+        "Genero": "Romance",
+        "Cantidad_Disponible": 20
+    },
+    {
+        "ID": 11,
+        "Titulo": "Cien a\u00f1os de soledad",
+        "Autor": "Gabriel Garc\u00eda M\u00e1rquez",
+        "Editorial": "Editorial Sudamericana",
+        "Ano_Publicacion": "1967",
+        "Genero": "Realismo magico",
+        "Cantidad_Disponible": 20
+    },
+    {
+        "ID": 12,
+        "Titulo": "Matar a un ruise\u00f1or",
+        "Autor": "Harper Lee",
+        "Editorial": "J.B. Lippincott & Co.",
+        "Ano_Publicacion": "1960",
+        "Genero": "Ficcion",
+        "Cantidad_Disponible": 20
+    },
+    {
+        "ID": 13,
+        "Titulo": "El Gran Gatsby",
+        "Autor": "F. Scott Fitzgerald",
+        "Editorial": "Charles Scribner's Sons",
+        "Ano_Publicacion": "1925",
+        "Genero": "Tragedia",
+        "Cantidad_Disponible": 20
+    },
+    {
+        "ID": 14,
+        "Titulo": "En busca del tiempo perdido",
+        "Autor": "Marcel Proust",
+        "Editorial": "Grasset",
+        "Ano_Publicacion": "1913",
+        "Genero": "Modernismo",
+        "Cantidad_Disponible": 20
+    },
+    {
+        "ID": 15,
+        "Titulo": "Don Quijote de la Mancha",
+        "Autor": "Miguel de Cervantes",
+        "Editorial": "Francisco de Robles",
+        "Ano_Publicacion": "1605",
+        "Genero": "Aventura",
+        "Cantidad_Disponible": 20
+    },
+    {
+        "ID": 16,
+        "Titulo": "La Odisea",
+        "Autor": "Homero",
+        "Editorial": "Desconocida",
+        "Ano_Publicacion": "Siglo VIII a.C.",
+        "Genero": "Aventura",
+        "Cantidad_Disponible": 20
+    },
+    {
+        "ID": 17,
+        "Titulo": "La Il\u00edada",
+        "Autor": "Homero",
+        "Editorial": "Desconocida",
+        "Ano_Publicacion": "Siglo VIII a.C.",
+        "Genero": "Aventura",
+        "Cantidad_Disponible": 20
+    },
+    {
+        "ID": 18,
+        "Titulo": "El Se\u00f1or de los Anillos",
+        "Autor": "J.R.R. Tolkien",
+        "Editorial": "Minotauro",
+        "Ano_Publicacion": "1954",
+        "Genero": "Fantasia",
+        "Cantidad_Disponible": 20
+    },
+    {
+        "ID": 19,
+        "Titulo": "El Hobbit",
+        "Autor": "J.R.R. Tolkien",
+        "Editorial": "Minotauro",
+        "Ano_Publicacion": "1937",
+        "Genero": "Fantasia",
+        "Cantidad_Disponible": 20
+    },
+    {
+        "ID": 20,
+        "Titulo": "El Principito",
+        "Autor": "Antoine de Saint-Exup\u00e9ry",
+        "Editorial": "Reynal & Hitchcock",
+        "Ano_Publicacion": "1943",
+        "Genero": "Aventura",
+        "Cantidad_Disponible": 10
+    },
+    {
+        "ID": 21,
+        "Titulo": "El Perfume",
+        "Autor": "Patrick S\u00fcskind",
+        "Editorial": "Diogenes Verlag",
+        "Ano_Publicacion": "1985",
+        "Genero": "Ficcion",
+        "Cantidad_Disponible": 40
+    },
+    {
+        "ID": 22,
+        "Titulo": "El C\u00f3digo Da Vinci",
+        "Autor": "Dan Brown",
+        "Editorial": "Doubleday",
+        "Ano_Publicacion": "2003",
+        "Genero": "Misterio",
+        "Cantidad_Disponible": 20
+    },
+    {
+        "ID": 23,
+        "Titulo": "El Alquimista",
+        "Autor": "Paulo Coelho",
+        "Editorial": "HarperCollins",
+        "Ano_Publicacion": "1988",
+        "Genero": "Ficcion",
+        "Cantidad_Disponible": 20
+    },
+    {
+        "ID": 24,
+        "Titulo": "El Nombre del Viento",
+        "Autor": "Patrick Rothfuss",
+        "Editorial": "DAW Books",
+        "Ano_Publicacion": "2007",
+        "Genero": "Fantasia",
+        "Cantidad_Disponible": 20
+    },
+    {
+        "ID": 25,
+        "Titulo": "El Silmarillion",
+        "Autor": "J.R.R. Tolkien",
+        "Editorial": "Minotauro",
+        "Ano_Publicacion": "1977",
+        "Genero": "Fantasia",
+        "Cantidad_Disponible": 20
+    },
+    {
+        "ID": 26,
+        "Titulo": "El Retrato de Dorian Gray",
+        "Autor": "Oscar Wilde",
+        "Editorial": "Lippincott's Monthly Magazine",
+        "Ano_Publicacion": "1890",
+        "Genero": "Ficcion",
+        "Cantidad_Disponible": 29
+    },
+    {
+        "ID": 27,
+        "Titulo": "El Lobo Estepario",
+        "Autor": "Hermann Hesse",
+        "Editorial": "S. Fischer Verlag",
+        "Ano_Publicacion": "1927",
+        "Genero": "Ficcion",
+        "Cantidad_Disponible": 10
+    },
+    {
+        "ID": 28,
+        "Titulo": "Juego de tronos",
+        "Autor": "George RR Martin",
+        "Editorial": "Planeta Comic",
+        "Ano_Publicacion": "1996",
+        "Genero": "Fantasia",
+        "Cantidad_Disponible": 15
+    },
+    {
+        "ID": 29,
+        "Titulo": "Los juegos del hambre 1",
+        "Autor": "Suzanne Collins",
+        "Editorial": "Molino",
+        "Ano_Publicacion": "2013",
+        "Genero": "Aventura",
+        "Cantidad_Disponible": 15
+    }
+]

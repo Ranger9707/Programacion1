@@ -1,0 +1,20 @@
+[
+    {
+        "ID": 1,
+        "ID_Socio": "1",
+        "ID_Libro": "1",
+        "Nombre_Libro": "Harry Potter 1",
+        "Fecha_Prestamo": "22-06-2024",
+        "Fecha_Devolucion": "28-06-2024",
+        "Estado_Prestamo": "Devuelto"
+    },
+    {
+        "ID": 2,
+        "ID_Socio": "5",
+        "ID_Libro": "29",
+        "Nombre_Libro": "Los juegos del hambre 1",
+        "Fecha_Prestamo": "27-06-2024",
+        "Fecha_Devolucion": null,
+        "Estado_Prestamo": "En Curso"
+    }
+]
